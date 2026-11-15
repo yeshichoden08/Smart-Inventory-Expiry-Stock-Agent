@@ -1,0 +1,9 @@
+product_id,product_name,category,quantity,min_stock,expiry_date,supplier,unit_price
+P001,Fresh Milk,Dairy,18,10,2026-11-15,Mountain Dairy,2.5
+P002,Brown Bread,Bakery,4,8,2026-11-17,Daily Bakery,1.8
+P003,Apple Juice,Beverages,25,10,2026-12-04,Druk Drinks,3.0
+P004,Cooking Oil,Grocery,3,10,2027-03-14,Bhutan Foods,8.5
+P005,Rice 5kg,Grocery,30,10,2027-07-12,Farm Supply,12.0
+P006,Yoghurt,Dairy,0,6,2026-11-12,Mountain Dairy,1.5
+P007,Biscuits,Snacks,40,12,2027-02-12,Happy Snacks,2.0
+P008,Orange Juice,Beverages,6,8,2026-11-19,Druk Drinks,3.5
